@@ -1,5 +1,5 @@
 ## DATE : 
-## EXPT NO: 2 - Correlation and regression for data analysis
+## EXPT NO: 3 - Correlation and regression for data analysis
 ## Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -63,6 +63,7 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/KanagavelAK/Correlation_Regression/assets/151514454/64bd1252-c434-42ec-a6b5-f8075dab6b37)
 
 ## Result
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
 
 
